@@ -1,0 +1,233 @@
+.container{
+    background-color: #cad3d3;
+    display: flex;
+}
+.backgroud1{
+    width: 242px;
+    height: 512px;
+    background-color: #ffffff;
+    margin: 121px 30px 95px 250px;
+    text-align: center;
+
+}
+.backgroud2{
+    width: 242px;
+    height: 512px;
+    background-color: #ffffff;
+    margin-left: 30px;
+    margin-top: 120px;
+    text-align: center;
+}
+.backgroud3{
+    width: 242px;
+    height: 512px;
+    background-color: #ffffff;
+    margin-left: 60px;
+    margin-top: 120px;
+    text-align: center;
+}
+.circle1{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 0.5;
+    position: absolute;
+    display: inline-block;
+    top: 86px;
+    margin-left: -37px;
+}
+.circle2{
+    width: 80px;
+    height: 80px;
+    background-color: #2c2e3d;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 0.6;
+    position: absolute;
+    display: inline-block;
+    top: 86px;
+    margin-left: -40px;
+}
+.circle3{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 0.6;
+    position: absolute;
+    display: inline-block;
+    top: 86px;
+    margin-left: -40px;
+}
+
+.number-circle1{
+    padding: 27px 0px;
+    color: #4eabf9;
+    font-size: 21.32px;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: inline-block;
+}
+.number-circle1 p{
+    color: #b2bec7; 
+    font-size: 10.66px;
+}
+.number-circle2 p{
+    color: #b2bec7; 
+    font-size: 10.66px;
+}
+.number-circle3 p{
+    color: #b2bec7; 
+    font-size: 10.66px;
+}
+
+.number-circle2{
+    padding: 27px 0px;
+    color: #b03f83;
+    font-size: 21.32px;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: inline-block;
+}
+.number-circle3{
+    padding: 27px 0px;
+    color: #72c664;
+    font-size: 21.32px;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: inline-block;
+}
+.icon-new{
+    position: absolute;
+    margin-left: -8px;
+    top: 117px;
+    text-align: center;
+}
+.icon-new p{
+    margin-top: -32px;
+    font-size: 12px;
+    color: white;
+}
+.header{
+    width: 100%;
+    height: auto;
+}
+.picture{
+    width: 100%;
+    height: 182px;
+    display: inline-block;
+}
+
+.overlay-picture{
+    width: 242px;
+    height: 182px;
+    display: inline-block;
+    background-color: black;
+    position: absolute;
+    opacity: 0.5;
+}
+.img{
+    height: 182px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.text-header{
+    color: #f9f9fa;
+    font-size: 23.99px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 85px 0px;
+    position: relative;
+    line-height: 0.5;
+}
+.text-header p{
+    font-size: 9.33px;
+}
+.main{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.text{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #808f9a;
+    font-size: 15.99px;
+    line-height: 0.5;
+    margin-top: 18px;
+    text-align: center;
+    padding: 1px;
+}
+.text-1 p{
+    padding: 6px;
+}
+.text p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #808f9a;
+    font-size: 9.33px;
+}
+.text-1{
+    line-height: 0.1;
+    font-size: 10.66px;
+    color: #808f9a;
+    text-align: center;
+}
+.text-2{
+    color:  #808f9a;
+    font-size: 10.66px;
+    text-align: center;
+    width: 100%;
+    height: 35px;
+    background-color: #f4f6f7;
+}
+.text-2 p{
+    padding-top: 8px;
+}
+.footer{
+    text-align: center;
+}
+.buttom1{
+    margin-top: 30px;
+    display: inline-block;
+}
+.buttom1 input{
+    width: 115px;
+    height: 33px;
+    color: #90cbfb;
+    background-color: white;
+    border: 1px solid #90cbfb;
+}
+.buttom1 input:hover{
+    background-color: #90cbfb;
+    color: white;
+}
+
+.buttom2{
+    margin-top: 30px;
+    display: inline-block;
+}
+.buttom2 input{
+    width: 115px;
+    height: 33px;
+    color: #b03f83;
+    background-color: white;
+    border: 1px solid #b03f83;
+}
+.buttom2 input:hover{
+    background-color: #b03f83;
+    color: white;
+}
+.buttom3{
+    margin-top: 30px;
+    display: inline-block;
+}
+.buttom3 input{
+    width: 115px;
+    height: 33px;
+    color: #abdea3;
+    background-color: white;
+    border: 1px solid #abdea3;
+}
+.buttom3 input:hover{
+    background-color: #abdea3;
+    color: white;
+}
